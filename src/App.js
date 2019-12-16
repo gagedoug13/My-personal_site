@@ -1,19 +1,21 @@
-import React from 'react';
 import './App.css';
-import Main from './components/Main'
+import React from 'react';
+import Welcome from './components/Welcome'
+import About from './components/About'
+import Projects from './components/Projects'
+import BlogPosts from './components/BlogPosts'
+import Contact from './components/Contact'
+
 
 
 function App() {
   return (
     <div className="App">
-      <nav className="navBar">
-        <ul className="ulNavBar">
-          <li>home</li>
-          <li>slone</li>
-          <li>grown</li>
-        </ul>
-      </nav>
-      <Main />
+      <Welcome />
+      <About />
+      <Projects />
+      <BlogPosts />
+      <Contact />
     </div>
   );
 }
