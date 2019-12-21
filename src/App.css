@@ -56,29 +56,30 @@ table {
 .about {
 	height: 100vh;
 	width: 100vw;
-	background: green;
+	background: #f1ebfc;
 }
 
 .projects {
 	height: 100vh;
 	width: 100vw;
-	background: orange;
+	background: #8c81a2;
 }
 
 .blog {
 	height: 100vh;
 	width: 100vw;
-	background: lightgreen;
+	background: #1f182e;
 }
 
 .contact {
 	height: 100vh;
 	width: 100vw;
-	background: lightslategrey;
+	background: #0057ff;
 }
 
 .myName {
 	margin-bottom: 5px;
+	margin-top: 15px;
 }
 
 .welcomeButton {
@@ -87,6 +88,12 @@ table {
 	background-color: black;
 	border: 1px solid red;
 	color: white;
-	margin-left: 110px;
+	margin-left: 40px;
 	margin-top: 20px;
 }
+
+.profilePic {
+	width: 215px;
+	margin-left: 2rem;
+}
+
