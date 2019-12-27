@@ -10,9 +10,9 @@ export default function Projects() {
 
                 <div>
                     Audio Denver
-                    <img className="audioDenverPic" src="Audio-Denver.png"></img>
+                    <img className="audioDenverPic" src="Audio-Denver1.png"></img>
                 </div>
-                
+
                 <div>
                     Red List
                     <img className="redListPic" src="Red-List.png"></img>
