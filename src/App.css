@@ -63,6 +63,8 @@ table {
 	height: 100vh;
 	width: 100vw;
 	background: #8c81a2;
+	display: grid;
+	grid-row: 33% 33% 33%;
 }
 
 .blog {
@@ -97,3 +99,6 @@ table {
 	margin-left: 2rem;
 }
 
+.myLinePic, .audioDenverPic, .redListPic {
+	width: 100vw;
+}
