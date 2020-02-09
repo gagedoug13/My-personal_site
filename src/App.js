@@ -11,6 +11,9 @@ import Contact from './components/Contact'
 function App() {
   return (
     <div className="App">
+      <nav className="navBar">
+       I'm a Nav Bar
+      </nav>
       <Welcome />
       <About />
       <Projects />
