@@ -61,7 +61,7 @@ table {
 	width: 100vw;
 	background: #f1ebfc;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
+	font-size: 3rem;
 }
 
 .projects {
@@ -69,7 +69,6 @@ table {
 	width: 100vw;
 	background: #8c81a2;
 	display: grid;
-	grid-row: 33% 33% 33%;
 }
 
 .blog {
@@ -106,7 +105,7 @@ table {
 }
 
 .myLinePic, .audioDenverPic, .redListPic {
-	width: 100vw;
+	width: 30vw;
 }
 
 .navBar {
