@@ -61,7 +61,7 @@ table {
 	width: 100vw;
 	background: #f1ebfc;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 3rem;
+	/* font-size: 3rem; */
 }
 
 .projects {
@@ -69,12 +69,6 @@ table {
 	width: 100vw;
 	background: #8c81a2;
 	display: grid;
-}
-
-.blog {
-	height: 100vh;
-	width: 100vw;
-	background: #1f182e;
 }
 
 .contact {
@@ -94,13 +88,13 @@ table {
 	background-color: black;
 	border: 1px solid red;
 	color: white;
-	margin-left: 40px;
-	margin-top: 20px;
+	/* margin-left: 40px; */
+	/* margin-top: 20px; */
 }
 
 .profilePic {
 	width: 215px;
-	margin-left: 2rem;
+	/* margin-left: 2rem; */
 	border-radius: 65%;
 }
 
@@ -114,5 +108,5 @@ table {
 }
 
 .secondAboutParagraph {
-	margin-top: 10rem;
+	/* margin-top: 10rem; */
 }
