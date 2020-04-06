@@ -69,7 +69,7 @@ table {
 .projects {
 	height: 100vh;
 	width: 100vw;
-	background: #8c81a2;
+	background: url('https://images.unsplash.com/photo-1516410529446-2c777cb7366d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
 	display: grid;
 }
 
@@ -112,8 +112,15 @@ table {
 .aboutMeOne, .aboutMeTwo {
 	font-family: 'Open Sans', sans-serif;
 	color: lightgray;
+	font-size: 4vmin;
 }
 
 .aboutMeTwo {
+	margin-top: 20vh;
+}
+
+.welcomeButtonDiv {
+	height: 30vh;
+	border: 3px solid white;
 	margin-top: 20vh;
 }
