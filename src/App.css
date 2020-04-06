@@ -51,7 +51,7 @@ table {
 	align-items: center;
 	color: white;
 	font-size: 20px;
-	height: 90vh;
+	height: 100vh;
 	width: 100vw;
 	background: url('https://thumbs.gfycat.com/UnfitDrearyFossa-size_restricted.gif');
 }
@@ -59,7 +59,9 @@ table {
 .about {
 	height: 100vh;
 	width: 100vw;
-	background: #f1ebfc;
+	background: url('https://images.unsplash.com/photo-1545161296-d9c2c241f2ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+	background-position: scroll;
+	background-size: cover;
 	font-family: 'Open Sans', sans-serif;
 	/* font-size: 3rem; */
 }
@@ -74,7 +76,7 @@ table {
 .contact {
 	height: 100vh;
 	width: 100vw;
-	background: #0057ff;
+	background: url('https://images.unsplash.com/photo-1482977036925-e8fcaa643657?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
 }
 
 .myName {
@@ -94,7 +96,7 @@ table {
 
 .profilePic {
 	width: 215px;
-	/* margin-left: 2rem; */
+	margin-left: 2rem;
 	border-radius: 65%;
 }
 
@@ -107,6 +109,11 @@ table {
 	background: blue;
 }
 
-.secondAboutParagraph {
-	/* margin-top: 10rem; */
+.aboutMeOne, .aboutMeTwo {
+	font-family: 'Open Sans', sans-serif;
+	color: lightgray;
+}
+
+.aboutMeTwo {
+	margin-top: 20vh;
 }
