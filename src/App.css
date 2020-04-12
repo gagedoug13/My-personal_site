@@ -113,6 +113,8 @@ table {
 	font-family: 'Open Sans', sans-serif;
 	color: lightgray;
 	font-size: 4vmin;
+	background: black;
+	opacity: 80%;
 }
 
 .aboutMeTwo {
