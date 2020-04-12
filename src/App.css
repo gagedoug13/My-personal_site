@@ -128,8 +128,11 @@ table {
 }
 
 .jamzDiv, .lineDiv, .audioDenverDiv {
-	background: black;
+	background: darkslateblue;
 	opacity: 80%;
 }
 
+.projectText {
+	color: rgb(212, 212, 212);
+}
 
