@@ -126,3 +126,10 @@ table {
 	border: 3px solid white;
 	margin-top: 20vh;
 }
+
+.jamzDiv, .lineDiv, .audioDenverDiv {
+	background: black;
+	opacity: 80%;
+}
+
+
