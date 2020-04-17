@@ -9,11 +9,11 @@ export default function Main() {
                 <h1 className="myName">Hello, my name is Gage Thornberry.</h1>
                 <h2 className="myTitle">I'm a Full-Stack Software Engineer.</h2>
                <div className='welcomeButtonDiv'>
-                   <ul>
-                       <button className='projectsButton'>Projects</button>
-                       <button className='resumeButton'>Resume</button>
-                       <button className='contactsButton'>Contact</button>
-                   </ul>
+                   
+                       <button className='welcomeButtons'>Projects</button>
+                       <button className='welcomeButtons'>Resume</button>
+                       <button className='welcomeButtons'>Contact</button>
+        
                </div>
             </div>
         </div>

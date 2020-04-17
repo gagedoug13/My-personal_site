@@ -97,13 +97,11 @@ table {
 
 .profilePic {
 	width: 215px;
-	margin-left: 2rem;
+	margin-left: 13vw;
 	border-radius: 65%;
+
 }
 
-.myLinePic, .audioDenverPic, .redListPic {
-	width: 30vw;
-}
 
 .navBar {
 	height: 8vh;
@@ -123,9 +121,10 @@ table {
 }
 
 .welcomeButtonDiv {
-	height: 30vh;
-	border: 3px solid white;
-	margin-top: 20vh;
+	height: 100%;
+	width: 90vw;
+	border: 1px solid white;
+	margin-top: 6vh;
 }
 
 .jamzDiv, .lineDiv, .audioDenverDiv {
@@ -134,7 +133,7 @@ table {
 }
 
 .projectText {
-	color: rgb(212, 212, 212);
+	color: rgb(182, 182, 182);
 }
 
 .contactInfoDiv {
@@ -143,4 +142,37 @@ table {
 	height: 50vh;
 	width: 100vw;
 	border: 2px solid black;
+}
+
+.welcomeButtons{
+	display: inline-block;
+	padding:0.46em 1.6em;
+	border:0.1em solid #000000;
+	margin:0 0.2em 0.2em 0;
+	border-radius:0.12em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-size: 2vh;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:white;
+	text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+	background-color:transparent;
+	text-align:center;
+	transition: all 0.15s;
+  }
+	.welcomeButtons:hover{
+	text-shadow: 0 0 2em rgba(255,255,255,1);
+	color:#FFFFFF;
+	border-color:#FFFFFF;
+  }
+	@media all and (max-width:30em){
+	 .welcomeButtons {
+	display:block;
+	margin:0.4em auto;
+	}
+  }
+
+.myName, .myTitle {
+	text-align: center;
 }
