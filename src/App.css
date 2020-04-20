@@ -63,7 +63,6 @@ table {
 	background-position: scroll;
 	background-size: cover;
 	font-family: 'Open Sans', sans-serif;
-	/* font-size: 3rem; */
 }
 
 .projects {
@@ -91,15 +90,12 @@ table {
 	background-color: black;
 	border: 1px solid red;
 	color: white;
-	/* margin-left: 40px; */
-	/* margin-top: 20px; */
 }
 
 .profilePic {
 	width: 215px;
 	margin-left: 13vw;
 	border-radius: 65%;
-
 }
 
 
@@ -124,7 +120,6 @@ table {
 	display: grid;
 	height: 20vh;
 	width: 90vw;
-	/* border: 1px solid white; */
 	margin-top: 6vh;
 }
 
@@ -140,7 +135,6 @@ table {
 
 .contactInfoDiv {
 	display: grid;
-	/* align-items: center; */
 	height: 50vh;
 	width: 100vw;
 	border: 2px solid black;
@@ -184,7 +178,6 @@ table {
 
 .projectPictures {
 	width: 100%;
-	/* margin-top: 5vh; */
 }
 
 .projectsTitle {
