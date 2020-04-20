@@ -121,9 +121,10 @@ table {
 }
 
 .welcomeButtonDiv {
-	height: 100%;
+	display: grid;
+	height: 20vh;
 	width: 90vw;
-	border: 1px solid white;
+	/* border: 1px solid white; */
 	margin-top: 6vh;
 }
 
@@ -137,8 +138,8 @@ table {
 }
 
 .contactInfoDiv {
-	display: flex;
-	align-items: center;
+	display: grid;
+	/* align-items: center; */
 	height: 50vh;
 	width: 100vw;
 	border: 2px solid black;
@@ -151,11 +152,13 @@ table {
 	margin:0 0.2em 0.2em 0;
 	border-radius:0.12em;
 	box-sizing: border-box;
-	text-decoration:none;
+	text-decoration: none;
 	font-size: 2vh;
 	font-family:'Roboto',sans-serif;
 	font-weight:300;
 	color:white;
+	border: 1px solid grey;
+	margin-top: 2vh;
 	text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
 	background-color:transparent;
 	text-align:center;
@@ -164,7 +167,8 @@ table {
 	.welcomeButtons:hover{
 	text-shadow: 0 0 2em rgba(255,255,255,1);
 	color:#FFFFFF;
-	border-color:#FFFFFF;
+	border: 2px solid white;
+	text-decoration: none;
   }
 	@media all and (max-width:30em){
 	 .welcomeButtons {
