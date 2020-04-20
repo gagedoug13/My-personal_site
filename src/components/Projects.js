@@ -3,23 +3,38 @@ import React from 'react'
 export default function Projects() {
     return (
         <div className="projects">
-                <div className='jamzDiv'>
-                    <h1 className='projectText'>
-                        Neighborhood Jamz - (picture)
-                    </h1>
+            <div className='projectsTitleDiv'>
+                <h1 className='projectsTitle'>Projects</h1>
+            </div>
+                
+                <div className='logicDiv'>
+                    <div>
+                        <img className='projectPictures' src='../rearden-logic.png'></img>
+                        <h1 className='projectText'>
+                            Rearden Logic LLC - Website made for Rearden Logic using WordPress and MuffinBuilder.
+                        </h1>
+                    </div>
                 </div>
+
+                <div className='jamzDiv'>
+                    <div>
+                        <img className='projectPictures' src='../neighborhood-jamz.png'></img>
+                        <h1 className='projectText'>
+                            Neighborhood Jamz - Find concerts near you by setting a location and a date.
+                        </h1>
+                    </div>
+                </div>
+
 
                 <div className='lineDiv'>
-                    <h1 className='projectText'>
-                        My Line (need to change the name of my line and do media queries)
-                    </h1>
+                    <div>
+                        <img className='projectPictures' src='../my-line.png'></img>
+                        <h1 className='projectText'>
+                            My Line - Find mountain biking trails near you.
+                        </h1>
+                    </div>
                 </div>
 
-                <div className='audioDenverDiv'>
-                    <h1 className='projectText'>
-                        Audio Denver? Might change if I use this.
-                    </h1>
-                </div>
         </div>
     )
 }
