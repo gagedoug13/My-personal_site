@@ -32,6 +32,7 @@ export default function Projects() {
                         <h1 className='projectText'>
                             My Line - Find mountain biking trails near you.
                         </h1>
+                        <p>This app utilizes the Google Maps API, Google News API and the MBT Project API.</p>
                     </div>
                 </div>
 
