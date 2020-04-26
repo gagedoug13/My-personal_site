@@ -10,9 +10,9 @@ export default function Main() {
                 <h2 className="myTitle">I'm a Full-Stack Software Engineer.</h2>
                <div className='welcomeButtonDiv'>
                    
-                       <button className='welcomeButtons'>Projects</button>
-                       <button className='welcomeButtons'>Resume</button>
-                       <button className='welcomeButtons'>Contact</button>
+                    <button className='welcomeButtons'>Projects</button>
+                    <button className='welcomeButtons'>Resume</button>
+                    <button className='welcomeButtons'>Contact</button>
         
                </div>
             </div>

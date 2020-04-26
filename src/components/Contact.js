@@ -9,7 +9,6 @@ export default function Contact() {
                 <h2>Email: gagedoug13@gmail.com</h2>
                 <h2>Github: gagedoug13</h2>
             </div>
-            
         </div>
     )
 }
