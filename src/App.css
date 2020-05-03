@@ -134,6 +134,11 @@ table {
 
 .projectText {
 	color: rgb(182, 182, 182);
+	font-size: 1.2rem;
+}
+
+.projectText2 {
+	color: rgb(182, 182, 182);
 }
 
 .contactInfoDiv {

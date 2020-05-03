@@ -13,7 +13,7 @@ export default function Projects() {
                         <h1 className='projectText'>
                             Rearden Logic LLC - Website made for Rearden Logic using WordPress and MuffinBuilder.
                         </h1>
-                        <p>Implemented features including click to scroll, video background and mobile compatibility.</p>
+                        <p className='projectText2'>Implemented features including click to scroll, video background and mobile compatibility.</p>
                     </div>
                 </div>
 
@@ -23,7 +23,7 @@ export default function Projects() {
                         <h1 className='projectText'>
                             Neighborhood Jamz - Find concerts near you by setting a location and a date.
                         </h1>
-                        <p>This app utilizes Geolocation, Google Places API and Songkick Events API .</p>
+                        <p className='projectText2'>This app utilizes Geolocation, Google Places API and Songkick Events API .</p>
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@ export default function Projects() {
                         <h1 className='projectText'>
                             My Line - Find mountain biking trails near you.
                         </h1>
-                        <p>This app utilizes the Google Maps API, Google News API and the MBT Project API.</p>
+                        <p className='projectText2'>This app utilizes the Google Maps API, Google News API and the MBT Project API.</p>
                     </div>
                 </div>
 
