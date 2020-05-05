@@ -9,7 +9,8 @@ export default function Projects() {
                 
                 <div className='logicDiv'>
                     <div>
-                        <img className='projectPictures' src='../rearden-logic.png'></img>
+                        <a href='https://www.reardenlogic.com/'>
+                        <img className='projectPictures' src='../rearden-logic.png'></img></a>
                         <h1 className='projectText'>
                             Rearden Logic LLC - Website made for Rearden Logic using WordPress and MuffinBuilder.
                         </h1>
@@ -19,7 +20,8 @@ export default function Projects() {
 
                 <div className='jamzDiv'>
                     <div>
-                        <img className='projectPictures' src='../neighborhood-jamz.png'></img>
+                        <a href='https://neighborhood-jamz.herokuapp.com/'>
+                        <img className='projectPictures' src='../neighborhood-jamz.png'></img></a>
                         <h1 className='projectText'>
                             Neighborhood Jamz - Find concerts near you by setting a location and a date.
                         </h1>
