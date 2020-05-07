@@ -4,9 +4,9 @@ import React from 'react'
 export default function Main() {
     return (
         <div className="welcome">
-            <div>
-                {/* <nav className='nav'>I'm a nav bar</nav> */}
+            <div className='welcomeDiv'>
                 <img className="profilePic" alt="profile pic" src="https://media3.giphy.com/media/BfFQeCJSNJcM8/source.gif"></img>
+                {/* <nav className='nav'>I'm a nav bar</nav> */}
                 <h1 className="myName">Hello, my name is Gage Thornberry.</h1>
                 <h2 className="myTitle">I'm a Full-Stack Web Developer and Musician.</h2>
                <div className='welcomeButtonDiv'>
