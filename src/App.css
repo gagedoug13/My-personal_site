@@ -111,8 +111,11 @@ table {
 .aboutMeOne, .aboutMeTwo {
 	font-family: 'Open Sans', sans-serif;
 	color: white;
-	font-size: 5vmin;
+	font-size: 4.6vmin;
+	background-color: grey;
 	padding: 5vmin;
+	opacity: 80%;
+	/* margin-bottom: 15vh; */
 }
 
 .aboutMeTwo {
