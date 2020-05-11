@@ -69,7 +69,7 @@ table {
 }
 
 .projects {
-	height: 100vh;
+	height: 100%;
 	width: 100vw;
 	background: black;
 	display: grid;
