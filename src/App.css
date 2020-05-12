@@ -142,6 +142,7 @@ table {
 
 .contactInfoDiv {
 	display: grid;
+	justify-content: center;
 	height: 50vh;
 	width: 100vw;
 }
@@ -197,4 +198,10 @@ table {
 
 .projectsTitleDiv {
 	height: 7vh;
+}
+
+.contactText {
+	font-size: 4vmin;
+	text-decoration: none;
+	margin-bottom: 15vh;
 }
