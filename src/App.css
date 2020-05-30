@@ -45,7 +45,7 @@ table {
 	border-spacing: 0;
 }
 .App {
-	background: black;
+	background: gray;
 }
 .welcome {
 	display: flex;
@@ -127,7 +127,7 @@ table {
 
 .jamzDiv, .lineDiv, .logicDiv {
 	background: black;
-	border: 1px solid white;
+	/* border: 1px solid white; */
 	margin-bottom: 5vh;
 }
 
