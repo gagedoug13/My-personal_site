@@ -3,7 +3,7 @@ import React from 'react'
 export default function Contact() {
     return (
         <div className="contact">
-            <h1>Contact</h1>
+            <h1 className='contactMe'>How to contact me.</h1>
             <div className='contactInfoDiv'>
                 <div className='contactBackground'>
                     <h1 className='contactText'>Phone: (405)708-2614</h1>
