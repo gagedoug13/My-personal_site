@@ -209,7 +209,7 @@ table {
 .contactBackground {
 	display: flex;
 	align-items: center;
-	height: 10vh;
+	height: 13vh;
 	width: 35vw;
 	background: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg');
 	color: white;
@@ -220,19 +220,3 @@ table {
 .contactMe {
 	font-size: 4vmin;
 }
-
-.contactText:link {
-	text-decoration: none;
-  }
-  
-  .contactText:visited {
-	text-decoration: none;
-  }
-  
-  .contactText:hover {
-	text-decoration: underline;
-  }
-  
-  .contactText:active {
-	text-decoration: underline;
-  }
