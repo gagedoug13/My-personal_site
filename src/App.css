@@ -202,5 +202,12 @@ table {
 .contactText {
 	font-size: 4vmin;
 	text-decoration: none;
-	margin-bottom: 15vh;
+}
+
+.contactBackground {
+	height: 10vh;
+	width: 30vw;
+	background: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg');
+	color: white;
+	margin-bottom: 5vh;
 }
