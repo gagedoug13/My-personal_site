@@ -14,11 +14,11 @@ export default function Contact() {
                 </div>
 
                 <div className='contactBackground'>
-                    <a href='https://github.com/gagedoug13'><h2 className='contactText'>Github: gagedoug13</h2></a>
+                    <a href='https://github.com/gagedoug13' target='_blank'><h2 className='contactText'>Github: gagedoug13</h2></a>
                 </div>
 
                 <div className='contactBackground'>
-                    <a href='https://www.linkedin.com/in/gage-thornberry-a32a9b168/'><h2 className='contactText'>LinkedIn: gagedoug13</h2></a>
+                    <a href='https://www.linkedin.com/in/gage-thornberry-a32a9b168/' target='_blank'><h2 className='contactText'>LinkedIn: gagedoug13</h2></a>
                 </div>
             </div>
         </div>
