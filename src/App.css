@@ -127,9 +127,9 @@ table {
 
 .jamzDiv, .lineDiv, .logicDiv {
 	background: black;
-	/* border: 1px solid white; */
+	border: 1px solid white;
 	margin-bottom: 5vh;
-	margin-left: 28vw;
+	margin-left: 20vw;
 }
 
 .projectText {
