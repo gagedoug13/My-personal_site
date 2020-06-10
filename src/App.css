@@ -70,7 +70,7 @@ table {
 
 .projects {
 	height: 100%;
-	width: 100vw;
+	/* width: 100vw; */
 	background: black;
 	display: grid;
 }
@@ -129,6 +129,7 @@ table {
 	background: black;
 	/* border: 1px solid white; */
 	margin-bottom: 5vh;
+	margin-left: 28vw;
 }
 
 .projectText {
@@ -183,7 +184,8 @@ table {
 }
 
 .projectPictures {
-	width: 100%;
+	height: 40vh;
+	margin-top: 5vh;
 }
 
 .projectsTitle {
@@ -220,3 +222,4 @@ table {
 .contactMe {
 	font-size: 4vmin;
 }
+
