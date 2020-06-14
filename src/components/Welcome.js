@@ -6,10 +6,9 @@ export default function Main() {
         <div className="welcome">
             <div className='welcomeDiv'>
                 <img className="profilePic" alt="profile pic" src="https://media3.giphy.com/media/BfFQeCJSNJcM8/source.gif"></img>
-                {/* <nav className='nav'>I'm a nav bar</nav> */}
                 <h1 className="myName">Hello, my name is Gage Thornberry.</h1>
                 <h2 className="myTitle">I'm a Full-Stack Web Developer and Musician.</h2>
-               <div className='welcomeButtonDiv'>
+                <div className='welcomeButtonDiv'>
                    
                     <button className='welcomeButtons'>Projects</button>
                     <button className='welcomeButtons'>Resume</button>
