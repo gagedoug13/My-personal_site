@@ -129,7 +129,6 @@ table {
 	background: black;
 	border: 1px solid white;
 	margin-bottom: 5vh;
-	margin-left: 20vw;
 }
 
 .projectText {
@@ -211,7 +210,7 @@ table {
 .contactBackground {
 	display: flex;
 	align-items: center;
-	height: 13vh;
+	height: 14vh;
 	width: 35vw;
 	background: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg');
 	color: white;

@@ -11,10 +11,10 @@ export default function Projects() {
                     <div>
                         <a href='https://www.reardenlogic.com/'>
                         <img className='projectPictures' alt='reardenLogic didnt make it' src='../rearden-logic.png'></img></a>
-                        <div className='reardenTextDiv'>
-                        <h1 className='projectText'>Rearden Logic LLC - Website made for Rearden Logic using WordPress and MuffinBuilder.</h1>
+                        <h1 className='projectText'>
+                            Rearden Logic LLC - Website made for Rearden Logic using WordPress and MuffinBuilder.
+                        </h1>
                         <p className='projectText2'>Implemented features including click to scroll, video background and mobile compatibility.</p>
-                        </div>
                     </div>
                 </div>
 
