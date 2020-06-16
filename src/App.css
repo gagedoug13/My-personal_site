@@ -70,9 +70,11 @@ table {
 
 .projects {
 	height: 100%;
+	width: 100vw;
 	/* width: 100vw; */
 	background: black;
 	display: grid;
+	justify-content: center;
 }
 
 .contact {
@@ -127,7 +129,7 @@ table {
 
 .jamzDiv, .lineDiv, .logicDiv {
 	background: black;
-	border: 1px solid white;
+	/* border: 1px solid white; */
 	margin-bottom: 5vh;
 }
 
@@ -183,8 +185,9 @@ table {
 }
 
 .projectPictures {
-	height: 40vh;
-	margin-top: 5vh;
+	width: 60vw;
+	/* size: 100%; */
+	/* margin-top: 5vh; */
 }
 
 .projectsTitle {
@@ -220,4 +223,13 @@ table {
 
 .contactMe {
 	font-size: 4vmin;
+}
+
+.build {
+	color: white;
+}
+
+.pictureDiv {
+	display: grid;
+	justify-content: center;
 }
