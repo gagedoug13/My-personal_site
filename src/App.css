@@ -58,6 +58,11 @@ table {
 	background: url('https://thumbs.gfycat.com/UnfitDrearyFossa-size_restricted.gif');
 }
 
+.welcomeDiv {
+	width: 80vw;
+	margin-left: 10vw;
+}
+
 .about {
 	height: 100vh;
 	width: 100vw;
@@ -91,7 +96,7 @@ table {
 
 .welcomeButton {
 	height: 5vh;
-	width: 60px;
+	/* width: 40px; */
 	background-color: black;
 	border: 1px solid red;
 	color: white;
@@ -99,7 +104,7 @@ table {
 
 .profilePic {
 	width: 40vw;
-	margin-left: 30vw;
+	margin-left: 20vw;
 	border-radius: 65%;
 }
 
@@ -123,7 +128,7 @@ table {
 .welcomeButtonDiv {
 	display: grid;
 	height: 25vh;
-	width: 99vw;
+	width: 80vw;
 	margin-top: 6vh;
 }
 
