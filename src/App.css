@@ -122,6 +122,7 @@ table {
 
 .aboutMeDiv {
 	width: 80vw;
+	margin-bottom: 10vh;
 }
 
 .welcomeButtonDiv {
@@ -218,17 +219,15 @@ table {
 .contactBackground {
 	display: flex;
 	align-items: center;
-	height: 14vh;
-	width: 35vw;
+	height: 15vh;
+	width: 50vw;
 	background: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg');
 	color: white;
 	margin-bottom: 5vh;
 	border-radius: 15px;
 }
 
-.contactMe {
-	font-size: 4vmin;
-}
+
 
 .build {
 	color: white;
