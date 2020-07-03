@@ -114,15 +114,14 @@ table {
 	background: grey;
 }
 
-.aboutMeOne, .aboutMeTwo {
+.aboutMe {
 	font-family: 'Open Sans', sans-serif;
 	color: #FFFFFF;
 	font-size: 4.6vmin;
-	padding: 5vmin;
 }
 
-.aboutMeTwo {
-	margin-top: 10vh;
+.aboutMeDiv {
+	width: 80vw;
 }
 
 .welcomeButtonDiv {
@@ -136,6 +135,7 @@ table {
 	background: black;
 	/* border: 1px solid white; */
 	margin-bottom: 5vh;
+	/* padding: 3vmin; */
 }
 
 .projectText {
