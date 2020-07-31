@@ -60,7 +60,6 @@ table {
 
 .welcomeDiv {
 	width: 80vw;
-	/* margin-left: 5vw; */
 }
 
 .about {
@@ -96,9 +95,8 @@ table {
 
 .welcomeButton {
 	height: 5vh;
-	/* width: 40px; */
 	background-color: black;
-	border: 1px solid red;
+	border: 1px solid blue;
 	color: white;
 }
 
@@ -134,9 +132,7 @@ table {
 
 .jamzDiv, .lineDiv, .logicDiv {
 	background: black;
-	/* border: 1px solid white; */
 	margin-bottom: 5vh;
-	/* padding: 3vmin; */
 }
 
 .projectText {
