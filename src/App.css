@@ -133,7 +133,7 @@ table {
 }
 
 .jamzDiv, .lineDiv, .logicDiv {
-	background: grey;
+	background: black;
 	/* border: 1px solid white; */
 	margin-bottom: 5vh;
 	/* padding: 3vmin; */
@@ -230,7 +230,7 @@ table {
 
 
 .build {
-	color: white;
+	color: lightblue;
 }
 
 .pictureDiv {
