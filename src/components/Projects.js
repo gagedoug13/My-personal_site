@@ -3,6 +3,7 @@ import React from 'react'
 export default function Projects() {
     return (
         <div className="projects">
+            
             <div className='projectsTitleDiv'>
                 <h1 className='projectsTitle'>Projects</h1>
             </div>

@@ -75,7 +75,6 @@ table {
 .projects {
 	height: 100%;
 	width: 100vw;
-	/* width: 100vw; */
 	background: black;
 	display: grid;
 	justify-content: center;
@@ -105,7 +104,6 @@ table {
 	margin-left: 20vw;
 	border-radius: 65%;
 }
-
 
 .navBar {
 	height: 8vh;
@@ -188,8 +186,6 @@ table {
 
 .projectPictures {
 	width: 60vw;
-	/* size: 100%; */
-	/* margin-top: 5vh; */
 }
 
 .projectsTitle {
@@ -222,8 +218,6 @@ table {
 	margin-bottom: 5vh;
 	border-radius: 15px;
 }
-
-
 
 .build {
 	color: lightblue;
