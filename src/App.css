@@ -105,10 +105,6 @@ table {
 	/* border-radius: 65%; */
 }
 
-.navBar {
-	height: 8vh;
-	background: grey;
-}
 
 .aboutMe {
 	font-family: 'Open Sans', sans-serif;
@@ -220,7 +216,7 @@ table {
 }
 
 .build {
-	color: lightblue;
+	color: whitesmoke;
 }
 
 .pictureDiv {
