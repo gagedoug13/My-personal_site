@@ -1,11 +1,11 @@
 import React from 'react'
-
+import picture from '../profilePicture.PNG'
 
 export default function Main() {
     return (
         <div className="welcome">
             <div className='welcomeDiv'>
-                <img className="profilePic" alt="profile pic" src="https://media3.giphy.com/media/BfFQeCJSNJcM8/source.gif"></img>
+                <img className="profilePic" alt="profile pic" src={picture}></img>
                 <h1 className="myName">Hello, my name is Gage Thornberry.</h1>
                 <h2 className="myTitle">I'm a Full-Stack Web Developer and Musician.</h2>
                 <div className='welcomeButtonDiv'>
