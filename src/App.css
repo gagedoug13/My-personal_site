@@ -95,14 +95,13 @@ table {
 .welcomeButton {
 	height: 5vh;
 	background-color: black;
-	border: 1px solid blue;
+	border: 1px solid green;
 	color: white;
 }
 
 .profilePic {
 	width: 40vw;
 	margin-left: 20vw;
-	/* border-radius: 65%; */
 }
 
 
