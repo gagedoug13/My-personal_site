@@ -84,7 +84,7 @@ table {
 	display: grid;
 	height: 100vh;
 	width: 100vw;
-	background: url('https://images.unsplash.com/photo-1482977036925-e8fcaa643657?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+	background: darkslategrey;
 }
 
 .myName {
@@ -124,7 +124,7 @@ table {
 }
 
 .jamzDiv, .lineDiv, .logicDiv {
-	background: grey;
+	background: black;
 	margin-bottom: 5vh;
 }
 
@@ -142,6 +142,7 @@ table {
 	justify-content: center;
 	height: 50vh;
 	width: 100vw;
+	/* background: black; */
 }
 
 .welcomeButtons{
@@ -208,8 +209,8 @@ table {
 	align-items: center;
 	height: 15vh;
 	width: 50vw;
-	background: url('https://image.shutterstock.com/image-photo/beautiful-abstract-grunge-decorative-navy-260nw-539880832.jpg');
-	color: white;
+	background: lightslategray;
+	color: black;
 	margin-bottom: 5vh;
 	border-radius: 15px;
 }
