@@ -8,7 +8,9 @@ export default function About() {
             </div>
 
             <div className='aboutMeDiv'>
-                <h2 className='aboutMe'>During my time in school I learned various skills to make problem solving applications using frameworks like React, Ruby on Rails, and Node.js. One of my biggest take-aways from the experience was my exposure to building projects with other people. It's important to know that you can always learn something from the person that you're working with. </h2>
+                <h2 className='aboutMe'>Throughout my life I've developed a love for music and problem solving. Starting at a young age, I learned to play the drums
+and later began to utilize professional software to create high quality music. In recent years I’ve fallen in love with the
+process of writing code and the immeasurable amount of value that it brings to myself and others. </h2>
             </div>
         </div>
     )
