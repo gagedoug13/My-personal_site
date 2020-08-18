@@ -4,7 +4,7 @@ export default function About() {
     return (
         <div className='about'>
             <div className='aboutMeDiv'>
-                <h2 className='aboutMe'>Hello there! My name is Gage Thornberry and I'm a full-stack web developer and musician from Oklahoma. I loved playing instruments as a kid, and when I got a little older I started making my own music with professional audio software. Seeing the endless potential in useful software inspired me to learn more about computer programming. I attended and graduated from Flatiron School's 15 week program for Software Engineering in December 2019. </h2>
+                <h2 className='aboutMe'>Hello there, My name is Gage and I'm a full stack web developer with experience building applications in React, Node, and Rails, and Wordpress.  My ability to solve problems combined with 7+ years of creating music make me a unique and dynamic problem solver on the engineering team. My interest in programming stems from my love for creation. </h2>
             </div>
 
             <div className='aboutMeDiv'>
